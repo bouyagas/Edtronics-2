@@ -1,24 +1,9 @@
-# README
+  
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+ Welcome to Edtronic 
 
-Things you may want to cover:
+ Edtronic is a education technology company We will be specializing in designing and developing 
+ educational electronics, computer software/hardware and online services for schools, students, teachers and parents
 
-* Ruby version
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Learn more: www.Edtronics.com
