@@ -3,22 +3,31 @@
 // You can use Sass (SCSS) here: http://sass-lang.com/
 
 
+body   {
+	  background: url('/assets/cover.jpg');
+	  background-repeat:no-repeat;	  
+	  background-size: cover;
+	  height: 830px;
+	  width: 815px;
+      color: white;
+      font-family: helvetica;
+}
+
 
 div{
-	
-    text-align: center;	
+  text-align: left;
 	padding-top: 145px;
-
+	margin-left: 34px;
 }
 
 div h1 {
 	font-size: 75px;
-
 }
 
 div p{
 	font-size : 25px;
-	
 }
 
-
+div h1, p {
+	color: #fff;
+}
