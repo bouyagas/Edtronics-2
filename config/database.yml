@@ -19,7 +19,7 @@ development:
   encoding: unicode
   database: Edtronics_development
   pool: 5
-  username: edtronics
+  username: mohamedbgassama
   password:
 
 test:
@@ -27,5 +27,13 @@ test:
   encoding: unicode
   database: Edtronics_test
   pool: 5
-  username: edtronics
-  password:
+  username: mohamedbgassama
+  password: 
+
+production:
+  adapter: postgresql
+  encoding: unicode
+  database: Edtronics_production
+  pool: 5
+  username: mohamedbgassama
+  password: 
