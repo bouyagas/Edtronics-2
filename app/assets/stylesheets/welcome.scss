@@ -4,12 +4,8 @@
 
 
 body   {
-	  background: image-url("cover.jpg");
-	  background-repeat:no-repeat;	  
-	  background-size: cover;
-	  height: 830px;
+	  background-image: linear-gradient(-90deg, #0A0A0A, #254E18);
 	  width: 815px;
-      color: white;
       font-family: helvetica;
 }
 
@@ -29,5 +25,11 @@ div p{
 }
 
 div h1, p {
-	color: #fff;
+	color: #4169E1;
+}
+
+
+.para {
+	font-size: 16px;
+
 }
