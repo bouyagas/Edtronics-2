@@ -26,10 +26,10 @@ Rails.application.configure do
   config.assets.compile = true
 
   
-   config.assets.digest = true  #To access assets which are precompiled and in their names have appendend digets by rails
-   config.cache_classes = true #allowing caching assets
+   config.assets.digest = true  # To access assets which are precompiled and in their names have appendend digets by rails
+   config.cache_classes = true # allowing caching assets
  
-config.serve_static_assets = true
+   config.serve_static_assets = true
 
 
   # `config.assets.precompile` and `config.assets.version` have moved to config/initializers/assets.rb
