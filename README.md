@@ -6,4 +6,4 @@
  educational electronics, computer hardware/softwares and deliever online services for schools, students, teachers and parents
 
 
-Learn more: www.Edtronics.com
+Learn more: www.getedtronics.com
